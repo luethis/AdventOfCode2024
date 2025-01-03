@@ -1,0 +1,6 @@
+# npm & idea
+node_modules
+.idea
+
+# input files
+input.txt
